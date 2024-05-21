@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @medusaa53
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning ВПУ 1
+- 📫 How to reach me tg medusaa52
+- ⚡ Fun fact: я ухилянт
+
+<!---
+medusaa53/medusaa53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
